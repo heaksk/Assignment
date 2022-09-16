@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 389767193ddb37945bcfc532de0a4403
+guid: b0d6b0fde51032249953b7e3d8c177f0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,10 +106,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u9752_0"
+      name: "\u9752\u5DE6_0"
       rect:
         serializedVersion: 2
-        x: 6
+        x: 9
         y: 73
         width: 17
         height: 17
@@ -120,17 +120,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74f2e883de8d8b44ab43df647a3e3c4e
-      internalID: -971055533
+      spriteID: fbd173ce2b6b0bb41a5e81675f0bdc61
+      internalID: -1951164343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_1"
+      name: "\u9752\u5DE6_1"
       rect:
         serializedVersion: 2
-        x: 38
+        x: 41
         y: 73
         width: 17
         height: 17
@@ -141,17 +141,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0e977e389a9f75429ba5c1d1486c868
-      internalID: 476749476
+      spriteID: b93fb33b136c9d742a2f51ceba84db5d
+      internalID: -1885431537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_2"
+      name: "\u9752\u5DE6_2"
       rect:
         serializedVersion: 2
-        x: 6
+        x: 9
         y: 41
         width: 17
         height: 17
@@ -162,17 +162,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b02698196341645428440130a00763e7
-      internalID: -2040841935
+      spriteID: 8488b8c19b2d16b4a9dcbbd62743a14c
+      internalID: 1699079913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_3"
+      name: "\u9752\u5DE6_3"
       rect:
         serializedVersion: 2
-        x: 38
+        x: 41
         y: 41
         width: 17
         height: 17
@@ -183,17 +183,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44bfd55a9d1e4dc40b731ec9cea14ab1
-      internalID: -1420977463
+      spriteID: 7eb1354540efe844b8a4887b23a5b818
+      internalID: 886317802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_4"
+      name: "\u9752\u5DE6_4"
       rect:
         serializedVersion: 2
-        x: 6
+        x: 9
         y: 9
         width: 17
         height: 17
@@ -204,17 +204,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d60e7a578cf68a45a4521c2d547d2d1
-      internalID: 2035198727
+      spriteID: b030a946513dba1408985fe8a16e8bbd
+      internalID: -1975472720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_5"
+      name: "\u9752\u5DE6_5"
       rect:
         serializedVersion: 2
-        x: 38
+        x: 41
         y: 9
         width: 17
         height: 17
@@ -225,8 +225,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22d0e3b1e11504d4db41318aa8bbbba6
-      internalID: 58729695
+      spriteID: 793a68ee934202145b75cf75cfe8afa9
+      internalID: 563862703
       vertices: []
       indices: 
       edges: []
@@ -242,12 +242,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "\u9752_1": 476749476
-      "\u9752_5": 58729695
-      "\u9752_0": -971055533
-      "\u9752_4": 2035198727
-      "\u9752_3": -1420977463
-      "\u9752_2": -2040841935
+      "\u9752\u5DE6_5": 563862703
+      "\u9752\u5DE6_1": -1885431537
+      "\u9752\u5DE6_3": 886317802
+      "\u9752\u5DE6_2": 1699079913
+      "\u9752\u5DE6_0": -1951164343
+      "\u9752\u5DE6_4": -1975472720
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

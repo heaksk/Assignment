@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 389767193ddb37945bcfc532de0a4403
+guid: 0db525294d2b32a4cb20ff16b65220f3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 22
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u9752_0"
+      name: PacStudentdown_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 73
-        width: 17
-        height: 17
+        x: 2
+        y: 65
+        width: 24
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74f2e883de8d8b44ab43df647a3e3c4e
-      internalID: -971055533
+      spriteID: 98e2fc0bf541f1c4e944a8e11f6ec578
+      internalID: -808350595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_1"
+      name: PacStudentdown_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 73
-        width: 17
-        height: 17
+        x: 34
+        y: 65
+        width: 24
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0e977e389a9f75429ba5c1d1486c868
-      internalID: 476749476
+      spriteID: 3e0d3f5d58ef80f4ab67fb489a638e5a
+      internalID: -911667191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_2"
+      name: PacStudentdown_2
       rect:
         serializedVersion: 2
-        x: 6
-        y: 41
-        width: 17
-        height: 17
+        x: 2
+        y: 33
+        width: 24
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b02698196341645428440130a00763e7
-      internalID: -2040841935
+      spriteID: 17b2da54e677bc14c9279afbe38521d1
+      internalID: 1979426193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_3"
+      name: PacStudentdown_3
       rect:
         serializedVersion: 2
-        x: 38
-        y: 41
-        width: 17
-        height: 17
+        x: 34
+        y: 33
+        width: 24
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44bfd55a9d1e4dc40b731ec9cea14ab1
-      internalID: -1420977463
+      spriteID: 3bf1f8200472bca4faf929fcdc0eebc0
+      internalID: 933466681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_4"
+      name: PacStudentdown_4
       rect:
         serializedVersion: 2
-        x: 6
-        y: 9
-        width: 17
-        height: 17
+        x: 2
+        y: 1
+        width: 24
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d60e7a578cf68a45a4521c2d547d2d1
-      internalID: 2035198727
+      spriteID: 0e0592c1992f0dc438d1505c85a9ee04
+      internalID: -1479374538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u9752_5"
+      name: PacStudentdown_5
       rect:
         serializedVersion: 2
-        x: 38
-        y: 9
-        width: 17
-        height: 17
+        x: 34
+        y: 1
+        width: 24
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,8 +225,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22d0e3b1e11504d4db41318aa8bbbba6
-      internalID: 58729695
+      spriteID: e02dbaeaf0033404c920e207f0b9fc91
+      internalID: 1140087210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentdown_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c185132af05e340b3bc0ac46214905
+      internalID: 1830718851
       vertices: []
       indices: 
       edges: []
@@ -242,12 +263,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "\u9752_1": 476749476
-      "\u9752_5": 58729695
-      "\u9752_0": -971055533
-      "\u9752_4": 2035198727
-      "\u9752_3": -1420977463
-      "\u9752_2": -2040841935
+      PacStudentdown_5: 1140087210
+      PacStudentdown_3: 933466681
+      PacStudentdown_0: -808350595
+      PacStudentdown_2: 1979426193
+      PacStudentdown_4: -1479374538
+      PacStudentdown_1: -911667191
+      PacStudentdown_6: 1830718851
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
